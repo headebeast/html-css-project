@@ -1,0 +1,248 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    padding-left: 3%;
+    width: 100%;
+}
+
+.black-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.social {
+    display: flex;
+    width: 100%;
+    padding-right: 10%;
+}
+
+.space {
+    width: 100%;
+    letter-spacing: 2px;
+}
+
+.social-part {
+    display: flex;
+    width: 100%;
+}
+
+.column-space {
+    justify-content: center;
+    display: flex;
+    color: black;
+}
+
+.i1 {
+    padding-left: 1%;
+}
+
+.call-message {
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-right: 5%;
+}
+
+.call {
+    justify-content: space-between;
+    width: 100%;
+    word-spacing: 10px;
+    padding-right: 10%;
+}
+
+.message {
+    justify-content: space-between;
+    width: 100%;
+    word-spacing: 10px;
+    padding-right: 10%;
+}
+
+h5 {
+    display: flex;
+}
+
+.navBar {
+    background-color: #FFFFFF;
+    width: 100%;
+    color: black;
+}
+
+.navCraft {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 10px black;
+}
+
+.craft {
+    padding-left: 10%;
+    font-size: 120%;
+}
+
+.naving {
+    padding-top: 20px;
+    padding-right: 10%;
+    justify-content: space-between;
+    word-spacing: 20px;
+}
+
+.sign-in {
+    background-color: white;
+    border: 1px solid #377F4D;
+    border-radius: 10px;
+    color: #377F4D;
+    padding: 1%;
+}
+
+.green {
+    background-color: #4BA367;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+
+.greenSection {
+    display: inline-block;
+    text-align: center;
+    font-weight: 100;
+}
+
+.greenText {
+    font-size: 200%;
+    font-weight: 100;
+}
+
+.bio {
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 5%;
+    font-weight: 100;
+}
+
+.laptop {
+    margin-bottom: 5%;
+}
+
+.input-button {
+    display: flex;
+    justify-content: center;
+}
+
+.use {
+    background-color: #377F4D;
+    border: 1px solid #377F4D;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    color: white;
+    padding: 1%;
+}
+
+.input-use {
+    border: 1px solid #377F4D;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    padding: 1%;
+}
+
+.bio2 {
+    color: white;
+    margin-bottom: 10%;
+    font-weight: 100;
+}
+
+.community {
+    background-color: #F9F9F9;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    font-weight: 100;
+}
+
+.sign-up {
+    display: inline-block;
+    text-align: center;
+    font-weight: 100;
+}
+
+.sign {
+    text-align: center;
+    margin-top: 10%;
+    font-weight: 100;
+    font-size: 200%;
+}
+
+.card0 {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.card {
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px #EEEEEE;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    flex-direction: column;
+    background-color: white;
+    padding: 4% 0;
+}
+
+.process {
+    color: #99C390;
+    font-weight: 100;
+}
+
+.chevron {
+    display: block;
+    flex-direction: column;
+}
+
+.arrow { 
+    display: flex;
+    justify-content: center;
+    
+}
+
+.direction {
+    flex-direction: column;
+}
+
+.ar {
+    color: #5DB443;
+    font-size: 600%;
+    margin-right: 15px;
+}
+
+.aicon {
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 1% 10%;
+    letter-spacing: 30px;
+
+}
+
+.arrow1 {
+    background-color: #5DB443;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    color: white;
+    font-size: 200%;
+}
+
+.arrow2 {
+     background-color: white;
+     border-radius: 50%;
+     width: 70px;
+     height: 70px;
+     color: #5DB443;
+     font-size: 150%;
+}
